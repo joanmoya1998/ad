@@ -1,0 +1,13 @@
+20190916 lv
+	Crear usuario en Github:
+	Usuario: joan1998
+	correo:joator@alu.iesserpis.org
+	
+	Crear repositorio:
+		Nombre:ad
+		Inicializar con README
+		.gitignore: VisualStudio (por c#)
+
+	Clonar en mi home:
+		git clone https://github.com/joanmoya1998/ad.git
+
