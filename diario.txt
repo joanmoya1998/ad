@@ -11,3 +11,15 @@
 	Clonar en mi home:
 		git clone https://github.com/joanmoya1998/ad.git
 
+	Configuracion local de git:
+		git config --global user.name janmoya1998
+		git config --globar user.email joator@alu.iesserpis.org
+		git config --global push.default simple
+	
+	Nuevo archivo:
+		dit add diario.txt (o git add .)
+		git commit -m "diario.txt con detalles sobre github y git"
+		git push (para publicar nueva version)
+		
+	
+		
